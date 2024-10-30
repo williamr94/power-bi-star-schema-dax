@@ -26,6 +26,8 @@ Montar a **tabela fato** e as **tabelas dimensão** para analisar dados relevant
 - **desafio_star_schema.pbix**: Arquivo Power BI com o modelo construído.
 - **star_schema.png**: Imagem do diagrama em estrela gerado.
 
+![Star Schema](starschema.png)
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
